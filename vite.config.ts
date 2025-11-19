@@ -1,10 +1,8 @@
 import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-
+import react from '@vitejs/plugin-react'; 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Deenabadhu_Nayak_Portfolio/',  // 👈 ADD THIS LINE
-  plugins: [react()],
+  plugins: [react()], 
   optimizeDeps: {
     exclude: ['lucide-react'],
   },

@@ -39,7 +39,7 @@ export default function Hero() {
 
         <div className="flex flex-wrap justify-center gap-6 text-slate-600">
           <a
-            href="https://www.linkedin.com/in/deenabandhu-nayakb30a92209/"
+            href="https://www.linkedin.com/in/deenabandhu-nayak-b30a92209/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 hover:text-blue-600 transition-colors"

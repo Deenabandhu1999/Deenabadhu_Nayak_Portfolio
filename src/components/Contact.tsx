@@ -24,7 +24,7 @@ export default function Contact() {
       icon: <Linkedin size={24} />,
       label: 'LinkedIn',
       value: 'linkedin.com/in/deenabandhu-nayak',
-      href: 'https://www.linkedin.com/in/deenabandhu-nayakb30a92209/',
+      href: 'https://www.linkedin.com/in/deenabandhu-nayak-b30a92209/',
     },
   ];
 
@@ -88,7 +88,7 @@ export default function Contact() {
               Send Email
             </a>
             <a
-              href="https://www.linkedin.com/in/deenabandhu-nayakb30a92209/"
+              href="https://www.linkedin.com/in/deenabandhu-nayak-b30a92209/"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 bg-slate-800 text-white rounded-lg font-semibold hover:bg-slate-700 transition-colors duration-200 shadow-lg"

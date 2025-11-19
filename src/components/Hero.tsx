@@ -5,8 +5,12 @@ export default function Hero() {
     <section id="home" className="min-h-screen flex items-center justify-center pt-16 px-4">
       <div className="max-w-4xl mx-auto text-center">
         <div className="mb-8">
-          <div className="w-32 h-32 mx-auto mb-6 bg-gradient-to-br from-blue-500 to-blue-700 rounded-full flex items-center justify-center text-white text-5xl font-bold shadow-xl">
-            DN
+          <div className="w-32 h-32 mx-auto mb-6 rounded-full overflow-hidden shadow-xl">
+            <img
+              src="/IMG_0614.jpg"
+              alt="Deenabandhu Nayak"
+              className="w-full h-full object-cover"
+            />
           </div>
           <h1 className="text-5xl md:text-6xl font-bold text-slate-800 mb-4">
             Deenabandhu Nayak
